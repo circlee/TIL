@@ -26,6 +26,12 @@
 | Static IP	 |  | ✔ |  |
 | Elastic IP address |  | ✔ |  |
 | Preserve Source IP address |  | ✔ |  |
+| Resource-based IAM permissions | ✔ | ✔ | ✔ |
+| Tag-based IAM permissions | ✔ | ✔ |  |
+| Slow start	 | ✔ |  |  |
+| User authentication | ✔ |  |  |
+| Redirects | ✔ |  |  |
+| Fixed response | ✔ |  |  |
 | Price (Asia Seoul)<br>checkedAt : 2019-10-01 | 시간당 0.0225 USD<br>LCU-시간당 0.008 USD | 시간당 0.0225 USD<br>LCU-시간당 0.006 USD | 시간당 0.025 USD<br>LCU-시간당 0.008 USD |
 
 
